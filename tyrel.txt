@@ -1,1 +1,2 @@
-This is first line in Tyrel.txt
+This is first line in Tyrel.tx
+Add secxond line in this file Tyrel2t
